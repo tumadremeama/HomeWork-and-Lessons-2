@@ -17,7 +17,7 @@ for i in numbers_:
             is_prime = False
             break
 
-# добавляем число
+# добавляем число в список
     if is_prime:
         primes.append(i)
     else:
